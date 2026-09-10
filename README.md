@@ -1,5 +1,5 @@
 # 💫 About Me:
-# <br>Hi there! I am Rachel, working in AI field with initial exposure to Applied AI at financial services. I'm driven by the purpose to adapt AI responsibly and emphasise its value.<br>
+# <br>Hi there! I am Rachel, working in AI field with initial exposure to Applied AI at financial services. I'm driven by the purpose to bring forward AI responsibly and emphasise its value.<br>
 
 # 💫 Experience + Education:
 👾 I specialise in Responsible AI and AI Optimisation Strategy practices<br><br>🤖 I built initial experience in Deutsche Bank, Shinhan BNP Paribas Asset Management before moving to AI Startup and worked on A/B Experiments with AI Red Teaming sector. Further, I invested my time in studying AI/ML Platforms like Clouds (Microsoft Azure, Snowflake Data Cloud) to manage, evaluate AI<br><br>👩🏻‍🎓 Throughout my Studies, I've read around Public Policy Implementation with Regulations around Tech (GDPR/ISO Code of Ethics & Conduct), Business Strategies and Data Mining Practices<br><br>🧚‍♀️ Interesting Facts: I spent my childhood in Singapore and now in the UK where I finished my degree and continuing with career.<br><br>
