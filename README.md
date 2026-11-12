@@ -7,7 +7,6 @@
 # ⚪ Access: GenAI Research Papers & Posts ⚪
 # 🗝️ [Issue #1: AI Governance & Steps to Implement AI](https://github.com/doheerachellee/GenAI-Solutions-Portfolio/issues/1)
 # 🗝️ [Issue #2: A/B Experiments & Balancing Time-to-Market with More](https://github.com/doheerachellee/GenAI-Solutions-Portfolio/issues/2)
-# 🗝️ [Issue #3: Prompt Engineering and Token Usage Optimisation](https://github.com/doheerachellee/GenAI-Solutions-Portfolio/issues/3)
 
 
 ## 🌐 Socials:
