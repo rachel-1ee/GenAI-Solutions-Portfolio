@@ -2,7 +2,7 @@
 # <br>Hi there! I am Rachel, working in AI field with initial exposure to Applied AI at financial services. I'm driven by the purpose to bring forward AI and emphasise its value.<br>
 
 # 💫 Experience + Education:
-👾 I specialise in Responsible AI practices and AI Evals <br><br>🤖 I built initial experience in Deutsche Bank, Shinhan BNP Paribas Asset Management before moving to AI Startup and worked on A/B Experiments with AI Red Teaming sector. Further, I invested my time in studying AI/ML Platforms like Clouds (Microsoft Azure, Snowflake Data Cloud) to manage, evaluate AI<br><br>🧚‍♀️ Interesting Facts: I grew up in Singapore and now based in the UK where I finished my degree and continuing with career.<br><br>
+👾 I specialise in Responsible AI practices and AI Evals with focus on PII Handling, Model Comparisons (A/B Testing), Conversation Scenario Design/Analysis and more<br><br>🤖 I built initial experience in Deutsche Bank, Shinhan BNP Paribas Asset Management before moving to AI Startup and worked on A/B Experiments with AI Red Teaming sector. Further, I invested my time in studying AI/ML Platforms like Clouds (Microsoft Azure, Snowflake Data Cloud) to manage, evaluate AI<br><br>🧚‍♀️ Interesting Facts: I grew up in Singapore and now based in the UK where I finished my degree and continuing with career.<br><br>
 
 # ⚪ Access: GenAI Research Papers & Posts ⚪
 # 🗝️ [Issue #1: AI Governance & Steps to Implement AI](https://github.com/doheerachellee/GenAI-Solutions-Portfolio/issues/1)
